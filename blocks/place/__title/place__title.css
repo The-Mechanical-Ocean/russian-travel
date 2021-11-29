@@ -16,7 +16,6 @@ color: #FFFFFF;
 @media screen and (max-width: 767px) {
   .place__title {
     width: 340px;
-    min-height: 92px;
     font-size: 42px;
     line-height: 46px;
   }
@@ -24,7 +23,6 @@ color: #FFFFFF;
 @media screen and (max-width: 400px) {
   .place__title {
     width: 288px;
-    min-height: 35px;
     font-size: 32px;
     line-height: 35px;
     margin: 0 16px 0;
