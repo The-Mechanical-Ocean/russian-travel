@@ -4,10 +4,10 @@
 }
 @media screen and (max-width: 767px) {
   .cover {
-   margin-top: 90px;
+    margin-top: 90px;
   }
 }
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 720px) {
   .cover {
     margin-top: 66px;
   }

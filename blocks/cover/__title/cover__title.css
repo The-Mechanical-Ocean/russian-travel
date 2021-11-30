@@ -9,11 +9,11 @@
   color: #FFFFFF;
   z-index: 1;
 }
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 720px) {
   .cover__title {
     font-size: 32px;
     line-height: 35px;
-    width: 288px;
+    max-width: 288px;
     min-height: 70px;
   }
 }

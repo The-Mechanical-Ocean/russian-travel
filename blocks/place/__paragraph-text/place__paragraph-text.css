@@ -1,10 +1,10 @@
   .place__paragraph-text {
-  margin: 27px 0 0;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 18px;
-  line-height: 163%;
-  color: #FFFFFF;
+    margin: 27px 0 0;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 163%;
+    color: #FFFFFF;
   }
   .place__paragraph-text:first-child {
     margin-top: 0;

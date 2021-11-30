@@ -6,12 +6,11 @@
 }
 @media screen and (max-width: 600px) {
   .intro__list {
-    width: 720px;
+    max-width: 720px;
   }
 }
 @media screen and (max-width: 400px) {
   .intro__list {
-    width: 288px;
-
+    max-width: 288px;
   }
 }
