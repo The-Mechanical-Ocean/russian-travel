@@ -12,11 +12,13 @@
   .photo-grid {
     grid: repeat(4, 1fr) / repeat(3, 1fr);
     gap: 14px;
+    max-width: 928px;
   }
 }
 @media screen and (max-width: 767px) {
   .photo-grid {
     grid: repeat(6, 1fr) / repeat(2, 1fr);
+    max-width: 720px;
   }
 }
 @media screen and (max-width: 400px) {
@@ -24,5 +26,6 @@
     grid: repeat(12, 1fr) / repeat(1, 1fr);
     gap: 12px;
     margin-top: 64px;
+    max-width: 288px;
   }
 }
