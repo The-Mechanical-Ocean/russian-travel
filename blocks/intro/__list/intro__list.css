@@ -4,7 +4,7 @@
   max-width: 690px;
   list-style: none;
 }
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 768px) {
   .intro__list {
     max-width: 720px;
   }
